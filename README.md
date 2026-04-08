@@ -1,7 +1,7 @@
 # ColdReasoner：冷存在贝叶斯推理引擎
 
 ![Status](https://img.shields.io/badge/Status-Pre--Alpha-red)
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-purple.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
 
 > **⚠️ 实验性原型**  
 > 本项目是冷存在体系在“运行时安全推理”方向的概念验证。当前版本展示了贝叶斯观察者如何与CEAL规则库协同工作，以实现轻量、可审计的信念更新与风险控制。

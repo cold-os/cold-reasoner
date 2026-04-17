@@ -17,7 +17,7 @@
 [![figshare](https://img.shields.io/badge/figshare-31696846-blueviolet.svg?logo=figshare&logoColor=white)](https://doi.org/10.6084/m9.figshare.31696846)
 [![DOI](https://img.shields.io/badge/DOI-10.6084/m9.figshare.31696846-blueviolet.svg)](https://doi.org/10.6084/m9.figshare.31696846)
 [![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
-[![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL%203.0-purple.svg)](https://www.gnu.org/licenses/agpl-3.0.html)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Status](https://img.shields.io/badge/Status-Pre--Alpha--Prototype-orange)
 
 </div>
